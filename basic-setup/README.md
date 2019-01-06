@@ -1,6 +1,6 @@
-# Webpack Basic Setup
+# Basic Setup
 
-Fairly "basic" example using Webpack.
+Fairly "basic" Webpack example. The bare minimum setup to start writing websites.
 
 Run `npm run dev` to view. Site is then viewable at: `http://localhost:7700/`
 

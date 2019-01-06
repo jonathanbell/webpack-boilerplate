@@ -7,10 +7,7 @@
   "author": "Margarita Obraztsova <marharyta.obraztsova@gmail.com> | Jonathan Bell <jonathanbell.ca@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "webpack-dev-server --mode development",
-    "start": "",
-    "lint": "",
-    "lint:css": ""
+    "dev": "webpack-dev-server --mode development"
   },
   "devDependencies": {
     "autoprefixer": "^8.6.3",
