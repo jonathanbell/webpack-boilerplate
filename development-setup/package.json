@@ -1,9 +1,10 @@
 {
-  "name": "webpack-boilerplate",
-  "version": "1.0.0",
+  "name": "webpack-development-setup",
+  "version": "0.0.1",
+  "private": true,
   "main": "index.js",
-  "repository": "git@github.com:marharyta/webpack-boilerplate.git",
-  "author": "Margarita Obraztsova <marharyta.obraztsova@gmail.com>",
+  "repository": "https://github.com/jonathanbell/webpack-boilerplate",
+  "author": "Margarita Obraztsova <marharyta.obraztsova@gmail.com> | Jonathan Bell <jonathanbell.ca@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "NODE_ENV=development webpack-dev-server --mode=development --hot"

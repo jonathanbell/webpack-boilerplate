@@ -1,32 +1,29 @@
-webpack-boilerplate is a project that provides webpack v4 boilerplates out-of-box to quickstart development. I decided to create it after writing a couple of medium blog posts
-https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1
+# Webpack Boilerplate
 
-https://medium.freecodecamp.org/how-to-develop-react-js-apps-fast-using-webpack-4-3d772db957e4
+Forked from <https://github.com/marharyta/webpack-boilerplate>.
 
-I don`t believe in universal configurations and boilerplates when it comes to configuration files, I believe every project should be treated and configured individually.
-Yet, there is a set of good practices that can help you with minimal project setup.
+This is a project that provides [Webpack v4](https://webpack.js.org/) boilerplates for out-of-box to quickstart development. Read the blog post about it here: <https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1>
 
-This project is a collection of webpack setups I find useful that you can copy directly and start using on your project.
-They are not limited to webpack only, but also have ESLint and Stylelint configured for more convenience.
+I don't believe in universal configurations and boilerplates when it comes to configuration files. I believe every project should be treated and configured individually. Yet, there is a set of good practices that can help with minimal project setup.
 
-Every setup is based on webpack v4.
+This project is a collection of webpack setups I find useful that you can copy directly and start using on your project. They are not limited to webpack only, but also have ESLint and Stylelint configured too. Every setup is based on webpack v4 and some are 100% framework agnostic.
 
-Some are 100% framework agnostic.
+## Run the code
 
-webpack-basic-setup
+1. `cd` into the project folder
+1. `npm install`
+1. `npm run dev`
 
-The bare minimum webpack setup to start writing websites.
+This will either compile the web assets and/or run a [Webpack dev server](https://github.com/webpack/webpack-dev-server) in order to serve up the Webpack app.
 
-webpack-sass-setup
+### `basic-setup` folder
 
-Basic setup + support for sass.
+This is the bare minimum webpack setup to start writing websites.
 
-webpack-development-setup
+### `sass-setup` folder
 
-Development process oriented setup. Includes basic setup and some development features and settings.
+This is the `basic-setup` plus support for SASS.
 
-webpack prod
+### `development-setup` folder
 
-Production-ready setup
-
-- in progress
+This is a development process oriented setup. It includes the `basic-setup` and some development features and settings.
