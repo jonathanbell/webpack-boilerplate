@@ -2,7 +2,7 @@
 
 Forked from <https://github.com/marharyta/webpack-boilerplate>.
 
-This is a project that provides [Webpack v4](https://webpack.js.org/) boilerplates for out-of-box to quickstart development. Read the blog post about it here: <https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1>
+This project provides [Webpack v4](https://webpack.js.org/) boilerplates for out-of-box to quickstart development. Read the blog post about it here: <https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1>
 
 I don't believe in universal configurations and boilerplates when it comes to configuration files. I believe every project should be treated and configured individually. Yet, there is a set of good practices that can help with minimal project setup.
 
